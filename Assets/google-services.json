@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616520914294",
+    "project_id": "authcheck-d97d9",
+    "storage_bucket": "authcheck-d97d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616520914294:android:e179abad3a223ef7d11657",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.IdleGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616520914294-8ukccj4d0rl8jrtff76v40m1lq06hkd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP3dAQspAghpbTYqO4aM9FQXiBGGZVu_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616520914294-8ukccj4d0rl8jrtff76v40m1lq06hkd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
